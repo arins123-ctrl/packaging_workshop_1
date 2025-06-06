@@ -1,7 +1,3 @@
-# packaging_workshop_1
-lab 3 and 5 are completed w.r.t thermal analysis and package cross section modeling 
-the snippets are attached along 
-
 1 - Packaging Evolution: From Basics to 3D Integration
 Semiconductor packaging refers to the final stage of semiconductor device fabrication, where the finished semiconductor die is enclosed in a protective package that allows it to be integrated into electronic systems. Basically, the package helps transition a fragile silicon die fabricated in a foundry cleanroom into the real-world system/ product.
 The key Functions of semiconductor package are:
@@ -10,8 +6,6 @@ The key Functions of semiconductor package are:
 	3. Mechanical support and connection of the die to the system
 	4. Thermal dissipation to conduct heat away from the die
 1.1 - Introduction To Semiconductor Packaging And Industry Overview
-![image](https://github.com/user-attachments/assets/0794cd79-afed-49a2-89e3-a9838f1cec65)
-
 
 
 The semiconductor manufacturing process consists of the front-end process which refers to the wafer manufacturing and the back-end process which consists of packaging and testing. (Even the wafer manufacturing process is split into a front-end and back-end process - with the front-end typically consisting of the CMOS-making process, and the back-end comprising the metal wiring formation process that comes after the CMOS is made.)
@@ -434,7 +428,4 @@ Now, repeat the steps 6 and 7 to create and connect all the die and substrate bo
 		○ Set the thickness to 1.2mm so that it covers the die and the bondwires, while also leaving margin for any laser marking processes
 		Mold	
 		
-
-
-
-![image](https://github.com/user-attachments/assets/f66a7867-d19b-4af6-b6ae-98989bef30a5)
+![image](https://github.com/user-attachments/assets/de6de877-6570-4fda-802f-24d456fd35f2)
